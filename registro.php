@@ -1,8 +1,8 @@
 <?php
 // Configuración de la conexión a la base de datos
-$servername = "localhost";  // Nombre del servidor de la base de datos
+$servername = "10.0.12.180";  // Nombre del servidor de la base de datos
 $username = "root";   // Nombre de usuario de la base de datos
-$password = ""; // Contraseña de la base de datos
+$password = "Tacoc3021++"; // Contraseña de la base de datos
 $dbname = "prueba"; // Nombre de la base de datos
 
 // Crear una conexión a la base de datos
